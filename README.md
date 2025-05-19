@@ -1,7 +1,8 @@
 # GenAI-Image-Colorization
+
 # Image Colorization Projects
 
-This project includes implementations of 9 different image colorization tasks using Python and deep learning frameworks such as TensorFlow/Keras, as well as simple GUI support where applicable.
+This  project  includes  implementations  of 9 different image colorization tasks  using  Python and  deep learning  frameworks such as  TensorFlow/Keras, as  well  as  simple  GUI  support  where applicable.
 
 ## Project structure
 
