@@ -1,12 +1,18 @@
 import tkinter as tk
+
 from tkinter import filedialog
+
 import numpy as np
+
 import matplotlib.pyplot as plt
 
 def upload_image():
     file_path = filedialog.askopenfilename()
+    
     img = plt.imread(file_path)
+    
     plt.imshow(img)
+    
     plt.title("Uploaded Image")
     plt.show()
 
